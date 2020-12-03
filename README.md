@@ -7,7 +7,7 @@
 Projeto consiste em um crawler para o Twitter que armazena tweets que possuem uma determinada palavra-chave.
 Um .json com os tweets capturador é gerado em sua pasta raíz e ao final o dado passa por um tratamento e é inserido em uma tabela no SQLServer seguindo o schema a baixo:
 
-![schema final pós tratamento](https://github.com/diegorech/twitter_crawler/blob/main/assets/Sem%20t%C3%ADtulo.png)
+![schema final pós tratamento](https://github.com/diegorech/twitter_crawler/blob/main/assets/schematwitter.png)
 
 *Para rodar o crawler você precisa de uma [conta de desenvolvedor do twitter.](https://developer.twitter.com/en/apply-for-access)*
 
